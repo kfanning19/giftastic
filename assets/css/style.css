@@ -1,0 +1,8 @@
+.animal{
+	margin:10px;
+}
+.animalGif{
+	float: left;
+	display: inline-block;
+	margin: 10px;
+}
