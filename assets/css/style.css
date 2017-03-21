@@ -1,7 +1,10 @@
+body{
+	background: #e6ffff;
+}
 .animal{
 	margin:10px;
 }
-.animalGif{
+.animalDiv{
 	float: left;
 	display: inline-block;
 	margin: 10px;
